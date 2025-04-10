@@ -1,0 +1,8 @@
+Arrays(insretion, deletion, traversing)
+[2,5,10,20,30]
+
+console.log("Try programiz.pro");
+let arr=[1,2,3,4,5];
+for(let i=0;i<arr.length;i++){
+    console.log(arr[i]);
+}
